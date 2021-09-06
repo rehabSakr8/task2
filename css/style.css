@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    opacity: 0.7;
+
+}
+
+
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(6, 58, 126, 0.4),rgba(6, 58, 126, 0.4)) ,url(../head.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.serv{
+    padding: 0px;
+}
